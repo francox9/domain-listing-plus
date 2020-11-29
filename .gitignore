@@ -1,0 +1,7 @@
+components/*/node_modules
+components/*/dist
+
+frontends/*/node_modules
+frontends/*/dist
+
+node_modules/
